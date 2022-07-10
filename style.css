@@ -1,0 +1,26 @@
+body{
+    background:linear-gradient(cyan 0%,blue 50%,darkblue 100%);
+}
+
+h1{
+    color: limegreen;
+    
+}
+
+#show_sketch{
+    float: right;
+}
+
+p{
+    padding-top: 20px;
+    font-size: 25px;
+}
+
+#score,#timer{
+    font-size: 20px;
+
+}
+
+#timer{
+    float: right;
+}
